@@ -7,7 +7,7 @@
 #
 Name     : perl-Devel-Caller
 Version  : 2.07
-Release  : 17
+Release  : 18
 URL      : https://cpan.metacpan.org/authors/id/R/RC/RCLAMP/Devel-Caller-2.07.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RC/RCLAMP/Devel-Caller-2.07.tar.gz
 Summary  : 'meatier versions of C<caller>'
